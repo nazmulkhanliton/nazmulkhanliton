@@ -1,4 +1,4 @@
-### Hello I am Nazmul Khan Liton 👋
+### Hello I am Nazmul Khan Liton 
 
 
 
