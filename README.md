@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Mobile Application Development
+- 🔭 I’m currently working on Java and Mobile Application Development
 - 🌱 I’m currently learning Machine Learning
 - 🤔 I’m looking for help with Java Application Development
 - 💬 Ask me about technology related question
