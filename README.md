@@ -2,6 +2,6 @@
 
 
 
-- 🔭 I’m Currently Working on Java, Dart, Java and Flutter Application Development
-- 🌱 I’m Currently Learning Java Spring Framework & Flutter Framework
+- 🔭 I’m Currently Working on Dart and Flutter Application Development
+- 🌱 I’m Currently Learning Flutter Framework
 - 📫 : liton079@gmail.com
