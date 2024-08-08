@@ -2,6 +2,6 @@
 
 
 
-- Working on Dart and Flutter Application Development
--Learning Flutter Framework
+- Working on Javascript, React js, Express js, Node js, MongoDB, Redux
+- -Learning Javascript's Framework
 - 📫 : liton079@gmail.com
